@@ -4,7 +4,7 @@
   "description": "Heady Techologies Backend Developer Test",
   "main": "index.js",
   "scripts": {
-    "start": "env-cmd -f ./config/ENV.env node src/app.js",
+    "start": "node src/app.js",
     "dev":"env-cmd -f ./config/ENV.env nodemon src/app.js" 
   },
   "author": "",

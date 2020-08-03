@@ -25,7 +25,7 @@ category object should look something like this {Id : 1 , child_categories:
 5. Update product details (name,price,etc)
 
 ## Stack
-Express Node.js, Mongodb
+Express.js, Node.js, Mongodb
 
 ### Prerequisites
 What things you need to install the software and how to install them
