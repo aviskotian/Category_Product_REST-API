@@ -56,10 +56,10 @@ http://localhost:8080
 
 ## Deployment
 
-Deployed in Heroku.
+Deployed in Heroku and MongoDB Atlas.
 Below is the Base URL of API endpoint.
 ```
-
+https://heady-task.herokuapp.com
 
 ```
 
